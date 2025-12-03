@@ -687,7 +687,7 @@ md
 - Status : 204 No Content
 - Response JSON : 
 
-## 24. Delete user (Delete user with wrong ID - Positive Case)
+## 24. Delete user (Delete user with wrong ID - Negative Case)
 **TC ID :** TC-API-024
 **Hosting :** https://gorest.co.in
 **Endpoint :** /public/v2/users/{id}
@@ -707,7 +707,7 @@ md
 }
 ```
 
-## 25. Delete user (Delete user with wrong ID - Positive Case)
+## 25. Delete user (Delete user with wrong token - Negative Case)
 **TC ID :** TC-API-025
 **Hosting :** https://gorest.co.in
 **Endpoint :** /public/v2/users/{id}
