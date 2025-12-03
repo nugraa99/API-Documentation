@@ -699,7 +699,7 @@ md
 - Path parameter {id} : 8274763
 
 ## Expected result
-- Status : 204 No Content
+- Status : 404 Not Found
 - Response JSON : 
 ```json
 {
